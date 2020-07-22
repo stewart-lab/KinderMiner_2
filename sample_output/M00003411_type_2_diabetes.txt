@@ -1,0 +1,5 @@
+target	target_with_keyphrase_count	target_count	keyphrase_count	db_article_count
+CDM00000671:methotrexate	34	39086	127319	30404417
+CD00289828:degludec	280	489	127319	30404417
+CDM00021695:alirocumab	16	369	127319	30404417
+CDM00000662:metformin	7440	18032	127319	30404417
