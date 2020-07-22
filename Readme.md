@@ -6,7 +6,7 @@ A local PubMed database version is required for executing KinderMiner 2.0. Pleas
 
 ---- COMPILE AND RUN ON THE COMMAND LINE ----   
 
-$ python kinderminer2.py TARGETS_FILE KEYPHRASE_FILE -o OUTPUT_DIRECTORY  
+$ python kinderminer2.py TARGETS_FILE KEYPHRASE_FILE OUTPUT_DIRECTORY  
 
 ---- EVALUATE AND RANK TARGETS ----
 
