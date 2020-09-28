@@ -14,4 +14,10 @@ To evaluate at default Fisher exact test (FET) p-value, 1.0E-05:
 $ python evaluate_fisher_exact_fetpvalue_and_ratio_sorted.py OUTPUT_DIRECTORY/OUTPUT_FILE OUTPUT_DIRECTORY/OUTPUT_FILE_EVALUATION_RESULT  
 
 To evaluate at cutomized FET p-value (ex. 0.05):   
-$ python evaluate_fisher_exact_fetpvalue_and_ratio_sorted.py OUTPUT_DIRECTORY/OUTPUT_FILE OUTPUT_DIRECTORY/OUTPUT_FILE_EVALUATION_RESULT 0.05  
+$ python evaluate_fisher_exact_fetpvalue_and_ratio_sorted.py OUTPUT_DIRECTORY/OUTPUT_FILE OUTPUT_DIRECTORY/OUTPUT_FILE_EVALUATION_RESULT 0.05 
+
+KinderMiner 2.0 was developed with Python 3.7.2.   
+
+Authors: Kalpana Raja and John Steill  
+
+Affiliation: Morgridge Institute for Research, Madison, WI, USA.
